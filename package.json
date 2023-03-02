@@ -1,0 +1,21 @@
+{
+   "name": "playwright",
+   "version": "1.0.0",
+   "main": ".eslintrc.js",
+   "directories": {
+      "test": "tests"
+   },
+   "scripts": {
+      "test": "playwright test"
+   },
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "@playwright/test": "^1.31.1",
+      "playwright": "^1.31.1"
+   },
+   "dependencies": {
+      "playwright-core": "^1.31.1"
+   },
+   "description": ""
+}
